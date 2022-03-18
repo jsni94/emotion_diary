@@ -94,3 +94,13 @@ header .head_btn_right {
 header button {
   font-family: "Nanum Pen Script";
 }
+
+/* DiaryList */
+
+.diaryList .menuwrap {
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+  display: flex;
+  justify-content: space-between;
+}
